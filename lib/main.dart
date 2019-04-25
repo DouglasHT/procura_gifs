@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:procura_gifs/ui/gif_page.dart';
 import 'package:procura_gifs/ui/home_page.dart';
 
 
